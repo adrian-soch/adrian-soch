@@ -67,7 +67,7 @@
 | [PCL Tutorial](https://github.com/adrian-soch/pcl_tutorial) | <img src="https://user-images.githubusercontent.com/6884645/227073304-b5e61753-bbda-4aab-89bc-43532cbe2d79.png" width="50%" height="auto"/> | Tutorial for using ROS 2 and the Point Cloud Library | Lidar point cloud, 3D Perception |
 | [Pacemaker Project](https://github.com/adrian-soch/Pacemaker-Project) | <img src="https://github.com/adrian-soch/pcl_tutorial/assets/6884645/ec3134fa-f7fc-428e-84cc-984047ca87da" width="50%" height="auto"/> | Programmable pacemaker implemented on a FRDM-K64F microcontroller | Matlab and Simulink, GUI |
 | 3D LiDAR Detector | <img src="https://github.com/adrian-soch/pcl_tutorial/assets/6884645/d76dfcfb-de49-4ea3-be83-a320db9ab047" width="50%" height="auto"/> | 3D Object detection using YOLOv8-obb and pseudo images | CNN, Deep learning, data processing |
-| LiDAR Camera Fusion System | <img src="https://github.com/adrian-soch/pcl_tutorial/assets/6884645/4bb42d9b-53cd-444a-869c-901325ce238e" width="50%" height="auto"/> | Framework for fusing and tracking camera and LiDAR detections in traffic monitoring applications. (Accepted to IEEE ITEC 2024) | PCL, OpenCV, sensor fusion |
+| [LiDAR Camera Fusion System](./2_fusion_demo.mkv) | <img src="https://github.com/adrian-soch/pcl_tutorial/assets/6884645/4bb42d9b-53cd-444a-869c-901325ce238e" width="50%" height="auto"/> | Framework for fusing and tracking camera and LiDAR detections in traffic monitoring applications. (Accepted to IEEE ITEC 2024) | PCL, OpenCV, sensor fusion |
 
 ## Hardware-focused Projects
 
