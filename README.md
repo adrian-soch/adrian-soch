@@ -74,7 +74,7 @@
 | Project | Image | Description | Tags |
 |---|---|---|---|
 | Pick and Place Robot | <img src="https://github.com/adrian-soch/bike_computer/assets/6884645/2acf4477-5f8a-4d6a-9f85-4ade1be6f992" width="50%" height="auto"/> | 3D Cartesian Pick and Place robot with adaptive force-based grasping | 3D Printing, CAD, Arduino, Robotics |
-| RADAR Data Collection Robot | <img src="https://github.com/adrian-soch/attitude_check/assets/6884645/665d9ced-d4c2-40a0-992e-9c43a12a7d82" width="50%" height="auto"/> | Custom Platform for collecting 360 deg RADAR data on a mobile robot | ROS, CAD, 3D Printing, PID Control, Arduino|
+| [RADAR Data Collection Robot](./RADAR_Robot.pdf) | <img src="https://github.com/adrian-soch/attitude_check/assets/6884645/665d9ced-d4c2-40a0-992e-9c43a12a7d82" width="50%" height="auto"/> | Custom Platform for collecting 360 deg RADAR data on a mobile robot | ROS, CAD, 3D Printing, PID Control, Arduino|
 | [Robot Car Platform](https://github.com/adrian-soch/BEAR) | <img src="https://user-images.githubusercontent.com/6884645/87477229-c7ebcc00-c5f5-11ea-9d19-f1d99d223956.jpg" width="50%" height="auto"/> | Customizing an RC car for control via ROS | Hardware, Raspberry Pi, Arduino, 3D Printing |
 | [Webcam Servo Tracker](https://github.com/adrian-soch/tracking_webcam) | <img src="https://user-images.githubusercontent.com/6884645/87463069-d8dd1300-c5de-11ea-9487-db58ed457b65.jpg" width="50%" height="auto"/> | System to track a tennis ball and center the ball in the frame | 3D Printing, OpenCV |
 | LED RPM Display | <img src="https://github.com/adrian-soch/bike_computer/assets/6884645/dfb7552a-e17f-4825-9385-16a29c405c04" width="50%" height="auto"/> | RPM Gauge for the McMaster Baja Racing Vehicle | LED, Soldering, Arduino |
