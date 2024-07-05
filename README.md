@@ -60,14 +60,14 @@
 
 | Project | Image | Description | Tags |
 |---|---|---|---|
+| [3D LiDAR Detector](https://github.com/adrian-soch/3D-LiDAR-YOLOv8-obb) | <img src="https://github.com/adrian-soch/pcl_tutorial/assets/6884645/d76dfcfb-de49-4ea3-be83-a320db9ab047" width="50%" height="auto"/> | 3D Object detection using YOLOv8-obb and pseudo images | CNN, Deep learning, data processing |
+| [LiDAR Camera Fusion System](./2_fusion_demo.mkv) | <img src="https://github.com/adrian-soch/pcl_tutorial/assets/6884645/4bb42d9b-53cd-444a-869c-901325ce238e" width="50%" height="auto"/> | Framework for fusing and tracking camera and LiDAR detections in traffic monitoring applications. (Accepted to IEEE ITEC 2024) | PCL, OpenCV, sensor fusion |
 | [Attitude Check](https://github.com/adrian-soch/attitude_check) | <img src="https://github.com/adrian-soch/attitude_check/assets/6884645/aa21f86e-6b74-4a9d-a757-ec63950c2f18" alt="Gif of Attitude Check in action." width="50%" height="auto"/> | C++ Implementation of Madgwick Filter with Hardware Demo | Robotics, Orientation Filter, sensor fusion |
 | [Fall Detector](https://github.com/adrian-soch/fall_detector) | <img src="https://github.com/adrian-soch/fall_detector/assets/6884645/3372d630-10ab-4b47-90f0-5d209897da7d" width="50%" height="auto"/>| CNN-based detector for humans falling in videos | ML, CNN, Transfer learning |
 | [Frontier Exploration](https://github.com/adrian-soch/frontier_exploration) | <img src="https://github.com/adrian-soch/frontier_exploration/assets/6884645/2212f6f5-046a-4d85-aeaf-ed6245907e1f" width="50%" height="auto"/>| Learning-based frontier exploration algorithm for mobile robots | Mapping, ML, Transfer Learning |
 | [Robot Mapping Algorithms](https://github.com/adrian-soch/robot_mapping_algorithms) | <img src="https://github.com/adrian-soch/attitude_check/assets/6884645/d3a2a372-f2f4-45e5-8123-3cfdb1c43494" width="50%" height="auto"/>| Implementation of EKF based localization for a robot in a gazebo simulation | Mapping, Localization, Simulation |
 | [PCL Tutorial](https://github.com/adrian-soch/pcl_tutorial) | <img src="https://user-images.githubusercontent.com/6884645/227073304-b5e61753-bbda-4aab-89bc-43532cbe2d79.png" width="50%" height="auto"/> | Tutorial for using ROS 2 and the Point Cloud Library | Lidar point cloud, 3D Perception |
 | [Pacemaker Project](https://github.com/adrian-soch/Pacemaker-Project) | <img src="https://github.com/adrian-soch/pcl_tutorial/assets/6884645/ec3134fa-f7fc-428e-84cc-984047ca87da" width="50%" height="auto"/> | Programmable pacemaker implemented on a FRDM-K64F microcontroller | Matlab and Simulink, GUI |
-| [3D LiDAR Detector](https://github.com/adrian-soch/3D-LiDAR-YOLOv8-obb) | <img src="https://github.com/adrian-soch/pcl_tutorial/assets/6884645/d76dfcfb-de49-4ea3-be83-a320db9ab047" width="50%" height="auto"/> | 3D Object detection using YOLOv8-obb and pseudo images | CNN, Deep learning, data processing |
-| [LiDAR Camera Fusion System](./2_fusion_demo.mkv) | <img src="https://github.com/adrian-soch/pcl_tutorial/assets/6884645/4bb42d9b-53cd-444a-869c-901325ce238e" width="50%" height="auto"/> | Framework for fusing and tracking camera and LiDAR detections in traffic monitoring applications. (Accepted to IEEE ITEC 2024) | PCL, OpenCV, sensor fusion |
 
 ## Hardware-focused Projects
 
