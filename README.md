@@ -53,6 +53,7 @@
 
 <p align='center'>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrian-soch">
+    <img src="https://github-readme-stats.vercel.app/api?username=adrian-soch&show_icons=true&theme=merko">
 </p>
 
 ---
