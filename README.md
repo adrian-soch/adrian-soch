@@ -18,23 +18,22 @@
 <p align='center'>
   My primary languages:
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </p>
 
 <p align='center'>
   Tools I use:
+    <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">
     <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
-    <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
     <!-- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> -->
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
     <img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" />
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
   Other stuff I'm familiar with:
     <img src="https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white" />
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
@@ -47,7 +46,7 @@
     <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white">
     <img src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" />
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
-</p>
+</p> -->
 
 ---
 
@@ -67,8 +66,6 @@
 | [Fall Detector](https://github.com/adrian-soch/fall_detector) | <img src="https://github.com/adrian-soch/fall_detector/assets/6884645/3372d630-10ab-4b47-90f0-5d209897da7d" width="50%" height="auto"/>| CNN-based detector for humans falling in videos | ML, CNN, Transfer learning |
 | [Frontier Exploration](https://github.com/adrian-soch/frontier_exploration) | <img src="https://github.com/adrian-soch/frontier_exploration/assets/6884645/2212f6f5-046a-4d85-aeaf-ed6245907e1f" width="50%" height="auto"/>| Learning-based frontier exploration algorithm for mobile robots | Mapping, ML, Transfer Learning |
 | [Robot Mapping Algorithms](https://github.com/adrian-soch/robot_mapping_algorithms) | <img src="https://github.com/adrian-soch/attitude_check/assets/6884645/d3a2a372-f2f4-45e5-8123-3cfdb1c43494" width="50%" height="auto"/>| Implementation of EKF based localization for a robot in a gazebo simulation | Mapping, Localization, Simulation |
-| [PCL Tutorial](https://github.com/adrian-soch/pcl_tutorial) | <img src="https://user-images.githubusercontent.com/6884645/227073304-b5e61753-bbda-4aab-89bc-43532cbe2d79.png" width="50%" height="auto"/> | Tutorial for using ROS 2 and the Point Cloud Library | Lidar point cloud, 3D Perception |
-| [Pacemaker Project](https://github.com/adrian-soch/Pacemaker-Project) | <img src="https://github.com/adrian-soch/pcl_tutorial/assets/6884645/ec3134fa-f7fc-428e-84cc-984047ca87da" width="50%" height="auto"/> | Programmable pacemaker implemented on a FRDM-K64F microcontroller | Matlab and Simulink, GUI |
 
 ## Hardware-focused Projects
 
