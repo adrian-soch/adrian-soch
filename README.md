@@ -4,15 +4,7 @@
 </h1>
 
 <p align='center'>
-  🔭 I’m currently working on 3D Perception algorithms with camera and LiDAR sensors.
-</p>
-
----
-
-<p align='center'>
-  💻 My Setup: 
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+  🔭 I’m currently working on algorithms for LiDAR sensors.
 </p>
 
 <p align='center'>
@@ -21,19 +13,19 @@
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 </p>
 
-<p align='center'>
+<!--<p align='center'>
   Tools I use:
     <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">
     <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white">
     <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-    <!-- <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> -->
+     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
     <img src="https://img.shields.io/badge/Codecov-F01F7A?style=for-the-badge&logo=Codecov&logoColor=white" />
 </p>
 
-<!-- <p align='center'>
+<p align='center'>
   Other stuff I'm familiar with:
     <img src="https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white" />
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white">
@@ -48,10 +40,9 @@
     <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
 </p> -->
 
----
 
 <p align='center'>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrian-soch">
+    <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adrian-soch">-->
     <img src="https://github-readme-stats.vercel.app/api?username=adrian-soch&show_icons=true&theme=merko">
 </p>
 
